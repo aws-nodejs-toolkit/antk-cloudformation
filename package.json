@@ -1,0 +1,28 @@
+{
+  "name": "@aws-toolkit/cloudformation",
+  "version": "0.0.1",
+  "description": "AWS Node.js Toolkit - CloudFormation",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aws-nodejs-toolkit/antk-cloudformation.git"
+  },
+  "keywords": [
+    "aws",
+    "nodejs",
+    "toolkit",
+    "cloudformation"
+  ],
+  "author": "Olivier Van Aken <olivier.va@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aws-nodejs-toolkit/antk-cloudformation/issues"
+  },
+  "files": [
+    "src/**/*"
+  ],
+  "homepage": "https://github.com/aws-nodejs-toolkit/antk-cloudformation#readme",
+  "dependencies": {
+    "@aws-toolkit/aws-cli": "^1.0.1"
+  }
+}
